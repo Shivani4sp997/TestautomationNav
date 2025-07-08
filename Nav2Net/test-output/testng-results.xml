@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-08T14:38:24 EDT" name="Default suite" finished-at="2025-07-08T14:38:51 EDT" duration-ms="27094">
+    <groups>
+    </groups>
+    <test started-at="2025-07-08T14:38:24 EDT" name="Default test" finished-at="2025-07-08T14:38:51 EDT" duration-ms="27094">
+      <class name="nav10.randomadd">
+        <test-method is-config="true" signature="setup()[pri:0, instance:nav10.randomadd@2c35e847]" started-at="2025-07-08T14:38:24 EDT" name="setup" finished-at="2025-07-08T14:38:28 EDT" duration-ms="4004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="guestCheckoutFlow()[pri:0, instance:nav10.randomadd@2c35e847]" started-at="2025-07-08T14:38:28 EDT" name="guestCheckoutFlow" finished-at="2025-07-08T14:38:51 EDT" duration-ms="23051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guestCheckoutFlow -->
+      </class> <!-- nav10.randomadd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
